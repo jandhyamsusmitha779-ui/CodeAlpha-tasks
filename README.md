@@ -1,40 +1,32 @@
-# CodeAlpha Python Internship Project
+# CodeAlpha Python Internship Projects
 
 Hello Everyone!
 
-I am excited to share my Python internship project completed as part of the CodeAlpha Internship Program.
+This repository contains my Python projects completed during the CodeAlpha Internship Program.
 
-## Project Name
-Basic Chatbot
+## Completed Tasks
 
-## Project Description
-This project is a simple rule-based chatbot developed using Python. The chatbot interacts with users by responding to basic messages with predefined replies.
+### Task 1: Hangman Game
+A simple text-based Hangman game where the player guesses letters to find the hidden word.
 
-## Features
-- User-friendly interaction
-- Console-based chatbot
-- Responds to simple user inputs
-- Beginner-friendly Python project
+### Task 2: Basic Chatbot
+A rule-based chatbot that responds to simple user messages using predefined replies.
+
+### Task 3: Stock Portfolio Tracker
+A Python program that calculates total investment using stock names and quantities.
 
 ## Technologies Used
 - Python
 
 ## Concepts Used
-- if-elif conditions
-- while loop
-- input/output handling
-- string functions
-
-## Sample Inputs
-- hello
-- how are you
-- what is your name
-- bye
+- Loops
+- Conditional Statements
+- Functions
+- Lists and Dictionaries
+- File Handling
 
 ## Author
 Susmitha
 
 ## Internship
 CodeAlpha Python Programming Internship
-
-Thank you for visiting this repository!
